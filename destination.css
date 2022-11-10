@@ -1,0 +1,36 @@
+ul{
+    list-style-type:none;
+    overflow: hidden;
+    background-color: black;
+    align-items: right;
+
+}
+body{
+    background-image: url("background-destination-desktop.jpg"); ;
+    }
+    li{
+        display:inline;
+        float: right;
+    }
+   li a{
+        display:block;
+        padding: 8px;
+        color:white;
+        text-decoration:none;
+    }
+    p{
+        color:white;
+        align-items: baseline;
+        font-size:30px;
+        margin-bottom: auto;
+    }
+    h1{
+        color:white;
+        font-size: 60px;
+    }
+    h2{
+        color:white;
+    }
+    img{
+        float:right;
+    }
